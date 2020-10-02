@@ -1,4 +1,4 @@
-# Predicting Financial Time Series Data with Machine Learning
+# Predicting Financial Time Series Data with Machine Learning in order to extract meaningful statistics and other characterstics
 This is an example that predicts future prices from past price movements. Here we implement it with EUR/USD rate as an example, and you can also predict stock prices by changing symbol.
 
 ## Backtest example for EUR/USD

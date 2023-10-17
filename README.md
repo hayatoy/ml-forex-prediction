@@ -7,13 +7,14 @@ Using daily close prices from 2008 to 2016, first 95% for training and last 5% f
 
 ## Installation
 To run this demo, you need following environment and libraries.
-- Python 2.7 (not tested on 3.x)
+- Python 3.11
 - Jupyter Notebook
 - Scikit-learn
 - numpy
 - pandas
 - matplotlib
 - seaborn
+- yfinance
 
 **Note:**  You may need extra libraries to install above.
 
